@@ -8,7 +8,7 @@
 
         
     const results = function (){
-     $( ".results" ).text(`You have ${answerCount} Answer Correct and ${wrongAnswerCount} Answer Wrong`);
+     $( ".results" ).text(`${answerCount} Answer Correct and ${wrongAnswerCount} Answer Wrong`);
     }
     
     $('.wrong').on('click', function (){

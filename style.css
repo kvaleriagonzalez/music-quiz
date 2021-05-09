@@ -67,7 +67,8 @@ button {
 }
 
 @media (max-width:350px){
-  h1 {
+
+h1 {
   font-size: 3rem;
 }
 body {
@@ -76,5 +77,5 @@ body {
 button {
   font-size: 14px;
 }
- 
+
 }
